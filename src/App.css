@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+form{
+  border-color: black;  
+  border-width: 2px; 
+  width: 25%; 
+  border-style: solid;
+  height: 300px;
+  
+
+  margin-left: 550px;
+
+}
+button{
+  margin: 10px;
+}
+.input{
+  margin: 10px;
+  height: 25px;
+  width: 280px;
+}
