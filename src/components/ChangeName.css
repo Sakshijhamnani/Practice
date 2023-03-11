@@ -1,0 +1,11 @@
+.head{
+    font-size: 50px;
+    margin-left: 480px;
+}
+.Changebutton{
+    margin-left: 590px;
+    
+    width: 150px;
+    padding: 3px;
+    border-radius: 3px;
+}

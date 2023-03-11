@@ -1,0 +1,14 @@
+.InputTag{
+    margin-left: 7px;
+    margin-right: 5px;
+    margin-top: 12px;
+    width:200px;
+    padding: 3px;
+    border: 2px solid black;
+}
+.AddButton{
+ width: 50px;
+ padding: 3px;
+ border: 2px solid black;
+ 
+}
