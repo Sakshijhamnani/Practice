@@ -1,0 +1,23 @@
+
+.first{
+    background-color: green;
+    width: 50%;
+    float: left;
+    height: 400px;
+   
+}
+.second{
+   background-color: violet;
+    width: 50%;
+    float: right;
+    height: 400px;
+}
+.changeclick{
+   
+    margin-left: 300px;
+    margin-top: 150px;
+    cursor: pointer;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 8px;
+}

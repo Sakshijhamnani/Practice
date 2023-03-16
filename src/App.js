@@ -1,24 +1,23 @@
 import logo from './logo.svg';
 import './App.css';
+import TextArea from './components/TextArea';
+import Login from './components/Forms/Login';
+import Register from './components/Forms/Register';
+// import ChangePic from './components/Forms/ChangePic';
+import ChangePic1 from './components/Forms/ChangePic1';
+// import {BrowserRouter as Router ,Route,Routes ,Link,Switch} from 'react-router-dom'
+import Button from './components/Forms/Button';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+     <ChangePic1/>
+    <TextArea/> 
+    <Button/>
+   
+
+    
+    </>
   );
 }
 

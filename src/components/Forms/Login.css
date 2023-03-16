@@ -1,0 +1,85 @@
+.login-page{
+    border:2px solid white;
+    width: 360px;
+    margin-left: 600px;
+}
+.down-heading{
+    font-size: 10px;
+}
+.Welcome{
+    margin-bottom: 2px;
+}
+.label{
+    margin-top: 200px;
+}
+.input{
+    width: 300px;
+    height: 25px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+.input-ps{
+    width: 300px;
+    height: 25px;
+    border-radius: 4px;
+    margin-bottom: 1px;
+}
+.Email{
+    font-size: 15px;
+}
+.checkbox{
+    size: 5px;
+}
+.remember-me{
+    font-size: 11px;
+    margin-right: 120px;
+}
+.forget-password{
+    font-size: 11px;
+    margin-top: 2px;   
+}
+.button{
+    width: 310px;
+    height: 25px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    background-color: rgb(69, 159, 238);
+    color: white;
+    border-color: rgb(69, 159, 238) ;
+    cursor: pointer;
+}
+.Google{
+    font-size: 11px;
+    margin-right: 12px;
+    margin-left: 10px;
+}
+.Facebook{
+    font-size: 11px;
+    margin-left: 20px;
+}
+.signup{
+    font-size: 10px;
+    margin-left: 57px;
+}
+.Registration-page{
+    border:2px solid white;
+    width: 360px;
+    margin-left: 600px;  
+}
+.Buttons{
+    width: 100px;
+    height: 25px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    background-color: rgb(69, 159, 238);
+    color: white;
+    border-color: rgb(69, 159, 238) ;
+    cursor: pointer;
+    /* margin-left: 300px; */
+}
+.Buttons1{
+    margin-left: 650px;
+}
+
