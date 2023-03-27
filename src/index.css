@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.NavBar{
+  display: flex;
+  justify-content: space-between;
+  background-color:rgb(226, 226, 250);
+}
+.Links{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 50px;
+}
+h1{
+  margin: 10px;
+}
+.li{
+  margin: 18px;
+  font-size: 15px;
+}

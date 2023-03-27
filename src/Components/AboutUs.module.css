@@ -1,0 +1,48 @@
+.HorizontalLine{
+    margin-left:0;
+}
+.myImage{
+    margin-top: 70px;
+    margin-left: 100px;
+}
+.display{
+    display: flex;
+}
+.AboutMyself{
+     margin-left: 100px;
+     margin-top: 80px;
+}
+.para{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.extra{
+    display: flex;
+    /* height: 300px;
+    width: 600px;
+    margin-left: 400px; */
+}
+.skills{
+    border: 2px solid rgb(130, 130, 246);
+    height: 100px;
+    width: 300px;
+    margin: 20px;
+    margin-left: 430px;
+    background-color: rgb(130, 130, 246);
+}
+.hobbies{
+    border: 2px solid rgb(130, 130, 246);
+    height: 100px;
+    width: 300px;
+    margin: 20px;
+    background-color: rgb(130, 130, 246);
+}
+.learning{
+    border: 2px solid rgb(130, 130, 246);
+    height: 100px;
+    width: 400px;
+    margin: 20px;
+    font-size: 13px;
+    background-color: rgb(130, 130, 246);
+    
+}

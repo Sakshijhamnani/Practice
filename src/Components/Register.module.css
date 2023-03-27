@@ -1,0 +1,21 @@
+.outerDiv{
+    border: 2px solid rgb(105, 105, 254);
+    height: 628px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(105, 105, 254);
+
+
+}
+.innerDiv{
+    border: 2px solid rgb(105, 105, 254);
+    width: 350px;
+    text-align: center;
+    border-radius: 7px;
+    background-color: aliceblue;
+    
+}
+.input {
+    margin: 10px;
+}
