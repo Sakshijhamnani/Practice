@@ -1,0 +1,42 @@
+.main{
+    border: 5px solid rgb(251, 193, 117);
+    height: 300px;
+    width: 400px;
+    text-align: center;
+    border-radius: 4px;
+    margin-left: 450px;
+    margin-top: 200px;
+    background-color: rgb(252, 242, 229);
+}
+button{
+    width: 110px;
+    margin: 20px;
+    padding: 7px;
+    border-radius: 5px;
+    background-color: rgb(247, 193, 127);
+    cursor: pointer;
+    transition-duration: 0.4s;
+    border: none;
+}
+button:hover {
+    background-color:brown; /* Green */
+    color: white;
+  }
+input{
+    width: 230px;
+    border: 4px solid blue;
+    padding: 5px;
+    border-radius: 6px;
+}
+h2{
+    color: brown;
+}
+p{
+color: rgb(156, 89, 17);
+
+}
+.outer{
+    border-color: rgb(128, 137, 137);
+    height: 600px;
+    width: 500px;
+}

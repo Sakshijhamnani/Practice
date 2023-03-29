@@ -6,6 +6,29 @@
   height: 40vmin;
   pointer-events: none;
 }
+.NavBar{
+  display: flex;
+  justify-content: space-between;
+  background-color:rgb(226, 226, 250);
+}
+.Links{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  
+  text-decoration: none;
+  list-style: none;
+  font-size: 20px;
+
+}
+.li{
+  margin: 15px;
+}
+p{
+  text-decoration: none;
+}
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

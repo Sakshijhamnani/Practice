@@ -1,0 +1,12 @@
+.Home{
+    background-color: lightblue;
+    height: 600px;
+   text-align: center;
+   font-size: 30px;
+}
+p{
+    font-size: 17px;
+}
+span{
+    color: rgb(251, 113, 129);
+}
