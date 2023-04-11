@@ -1,0 +1,9 @@
+table , tr ,td , th{
+    border: 2px solid red;
+    border-collapse: collapse;
+    cursor: pointer;
+    
+}
+h3{
+    margin-left: 220px;
+}
