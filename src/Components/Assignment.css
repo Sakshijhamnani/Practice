@@ -1,0 +1,67 @@
+table ,tr, td , th{
+    border: 1px solid red;
+    border-collapse: collapse;
+    padding: 3px;
+  width: 100px;
+  cursor: pointer;
+  
+}
+.lightyellow{
+    background-color: aqua;
+}
+table{
+    margin-left: 480px;
+}
+.Main{
+    display: flex;
+}
+.Form{
+    border: 2px solid red;
+    width: 700px;
+    height: 280px;
+    text-align: center;
+    background-color: lightblue;
+    
+}
+input{
+    margin: 12px;
+    margin-right:5px ;
+    border-radius: 4px;
+    padding: 5px;
+
+}
+button{
+    width: 200px;
+    border-radius: 4px;
+    background-color: lightyellow;
+    padding: 3px;
+}
+.RightSide{
+    border: 2px solid red;
+    width: 700px;
+    height: 280px;
+    text-align: center;
+    background-color: lightblue;
+     
+}
+.Details{
+    background-color: aliceblue;
+    margin: 12px;
+}
+.ViewData{
+    /* display: flex; */
+    
+    border: 2px solid red;
+    width: 100vw;
+    height: 400px;
+    text-align: center;
+    background-color: rgb(202, 240, 159);
+}
+table{
+    margin-top: 5px;
+    background-color: aliceblue;
+    
+}
+td{
+    padding: 7px;
+}
